@@ -48,7 +48,7 @@ font-size: 14px;
 .container {
   width: 50%;
   margin: 30px auto;
-
+  background-image: url(/images/arrival.jpeg);
 }
 
 .card {
