@@ -4,8 +4,10 @@ font-family: 'Open sans', sans-serif;
 font-size: 13px;
 color: #2C3E50;
 line-height:1.6 ;
-
-}
+/*background-image: url(/images/arrival.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+*/}
 
 h1 {
 color: #33CCCC ;
@@ -48,7 +50,6 @@ font-size: 14px;
 .container {
   width: 50%;
   margin: 30px auto;
-  background-image: url(/images/arrival.jpeg);
 }
 
 .card {
